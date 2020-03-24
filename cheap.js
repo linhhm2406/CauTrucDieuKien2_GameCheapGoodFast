@@ -47,3 +47,5 @@ function clickfastbutton() {
     document.getElementById("clickgood").checked=good;
     document.getElementById("clickfast").checked=fast;
 }
+
+//binh comment

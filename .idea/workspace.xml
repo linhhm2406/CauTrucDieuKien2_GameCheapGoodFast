@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e58b4e-3bcf-4f50-b566-7482d01ea2e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheap.js" beforeDir="false" afterPath="$PROJECT_DIR$/cheap.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZYVXE3MhqnxRWhF8dcMYrs3ZCZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e58b4e-3bcf-4f50-b566-7482d01ea2e9" name="Default Changelist" comment="" />
+      <created>1585016051525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585016051525</updated>
+    </task>
+    <task id="LOCAL-00001" summary="binh add file moi">
+      <created>1585016080481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585016080481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="binh add file moi" />
+    <option name="LAST_COMMIT_MESSAGE" value="binh add file moi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2411" y="103" width="927" height="873" key="CommitChangelistDialog2" timestamp="1585016080398">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2411" y="103" width="927" height="873" key="CommitChangelistDialog2/0.40.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585016080398" />
+    <state x="2474" y="275" width="802" height="529" key="Vcs.Push.Dialog.v2" timestamp="1585016084197">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2474" y="275" width="802" height="529" key="Vcs.Push.Dialog.v2/0.40.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585016084197" />
   </component>
 </project>
